@@ -1,0 +1,6 @@
+export const ADD_COUNTER='add_counter'
+export const ADD_TO_CART='add_to_cart'
+export const INCREMENT='increment'
+export const DECREMENT='decrement'
+export const REMOVE='remove'
+export const REMOVEALL='removeAll'
