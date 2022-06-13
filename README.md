@@ -3,7 +3,7 @@
 蘑菇街前端练习项目 已完成
 
 ## 主界面
-<img src="https://user-images.githubusercontent.com/101635531/173329615-c9f4cd79-4a3a-4535-b26a-4faee15099b0.png" width="100px">
+<img src="https://user-images.githubusercontent.com/101635531/173329615-c9f4cd79-4a3a-4535-b26a-4faee15099b0.png" width="300px" height="300px">
 
 
 ## 商品详情页面
